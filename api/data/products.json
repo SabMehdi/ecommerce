@@ -1,0 +1,122 @@
+[
+  {
+    "id": "123245",
+    "title": "A Book",
+    "imageUrl": "https://www.publicdomainpictures.net/pictures/10000/velka/1-1210009435EGmE.jpg",
+    "description": "This is an awesome book!",
+    "price": "19",
+    "category": "Books"
+  },
+  {
+    "id": "815753076",
+    "title": "T-Shirt",
+    "imageUrl": "https://images.pexels.com/photos/298863/pexels-photo-298863.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "description": "Comfortable cotton t-shirt",
+    "price": "25",
+    "category": "Apparel"
+  },
+  {
+    "id": "789456",
+    "title": "Jeans",
+    "imageUrl": "https://images.pexels.com/photos/1082529/pexels-photo-1082529.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "description": "Classic blue jeans",
+    "price": "45",
+    "category": "Apparel"
+  },
+  {
+    "id": "456789",
+    "title": "Laptop",
+    "imageUrl": "https://images.pexels.com/photos/18105/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=600",
+    "description": "High-performance laptop",
+    "price": "999",
+    "category": "Electronics"
+  },
+  {
+    "id": "987654",
+    "title": "Smartphone",
+    "imageUrl": "https://images.pexels.com/photos/1647976/pexels-photo-1647976.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "description": "Latest smartphone model",
+    "price": "699",
+    "category": "Electronics"
+  },
+  {
+    "id": "1754652811172",
+    "title": "test111",
+    "description": "This is an awesome book!",
+    "price": "19",
+    "imageUrl": "https://www.publicdomainpictures.net/pictures/10000/velka/1-1210009435EGmE.jpg",
+    "category": "Books"
+  },
+  {
+    "id": "1754652961383",
+    "title": "test111",
+    "description": "This is an awesome book!",
+    "price": "19",
+    "imageUrl": "https://www.publicdomainpictures.net/pictures/10000/velka/1-1210009435EGmE.jpg",
+    "category": "General"
+  },
+  {
+    "id": "1754653711390",
+    "title": "A Book",
+    "description": "This is an awesome book!",
+    "price": "19.00",
+    "imageUrl": "https://www.publicdomainpictures.net/pictures/10000/velka/1-1210009435EGmE.jpg",
+    "category": "Books"
+  },
+  {
+    "id": "1754654229037",
+    "title": "A Book",
+    "description": "This is an awesome book!",
+    "price": "19.00",
+    "imageUrl": "https://www.publicdomainpictures.net/pictures/10000/velka/1-1210009435EGmE.jpg",
+    "category": "General"
+  },
+  {
+    "id": "1754654279847",
+    "title": "A Book",
+    "description": "This is an awesome book!",
+    "price": "19.00",
+    "imageUrl": "https://www.publicdomainpictures.net/pictures/10000/velka/1-1210009435EGmE.jpg",
+    "category": "General"
+  },
+  {
+    "id": "1754654341301",
+    "title": "A Book",
+    "description": "This is an awesome book!",
+    "price": "19.00",
+    "imageUrl": "https://www.publicdomainpictures.net/pictures/10000/velka/1-1210009435EGmE.jpg",
+    "category": "General"
+  },
+  {
+    "id": "1754654458310",
+    "title": "A Book",
+    "description": "This is an awesome book!",
+    "price": "19.00",
+    "imageUrl": "https://www.publicdomainpictures.net/pictures/10000/velka/1-1210009435EGmE.jpg",
+    "category": "Books"
+  },
+  {
+    "id": "1754655916634",
+    "title": "A Book",
+    "description": "This is an awesome book!",
+    "price": "19.00",
+    "imageUrl": "https://www.publicdomainpictures.net/pictures/10000/velka/1-1210009435EGmE.jpg",
+    "category": "General"
+  },
+  {
+    "id": "1754655983753",
+    "title": "A Book",
+    "description": "This is an awesome book!",
+    "price": "19.00",
+    "imageUrl": "https://www.publicdomainpictures.net/pictures/10000/velka/1-1210009435EGmE.jpg",
+    "category": "Books"
+  },
+  {
+    "id": "1754658034482",
+    "title": "A Book",
+    "description": "This is an awesome book!",
+    "price": "19.00",
+    "imageUrl": "https://www.publicdomainpictures.net/pictures/10000/velka/1-1210009435EGmE.jpg",
+    "category": "Test"
+  }
+]
